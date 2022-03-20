@@ -1,0 +1,13 @@
+header{
+  background: #333;
+  height: 50px;
+}
+main{
+  background: #333;
+  color: white;
+  height: 100vh;
+}
+
+h1{
+  margin:0;
+}
